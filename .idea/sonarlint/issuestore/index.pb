@@ -15,3 +15,11 @@ nyoutube/devdojo-microservices/core/src/main/java/academy/devdojo/youtube/core/r
 _youtube/devdojo-microservices/core/src/main/java/academy/devdojo/youtube/core/model/Course.java,5\7\579a3cfd49dc73fca0a553b40a10eb88fa455508
 ó
 gyoutube/devdojo-microservices/core/src/main/java/academy/devdojo/youtube/core/model/AbstractEntity.java,c\8\c83eba9e39294ecb320461b62fedf08374ed9e14
+ù
+myoutube/devdojo-microservices/course/src/test/java/academy/devdojo/youtube/course/CourseApplicationTests.java,7\1\711b39f08eb485a18fdd16ff04662dc7f1aa3966
+°
+qyoutube/devdojo-microservices/discovery/src/main/java/academy/devdojo/youtube/discovery/DiscoveryApplication.java,a\b\abf759705346d5cf615a5ec5405250315e39ad21
+\
+,youtube/devdojo-microservices/course/pom.xml,2\d\2d51d65e0ac8b59f4d71b96f28ba635a09cc9bda
+_
+/youtube/devdojo-microservices/discovery/pom.xml,7\c\7c168b61cea872e912ab6754cc061322bfc68168

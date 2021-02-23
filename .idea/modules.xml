@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/youtube/devdojo-microservices/course/course.iml" filepath="$PROJECT_DIR$/youtube/devdojo-microservices/course/course.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/devdojo-jao.iml" filepath="$PROJECT_DIR$/.idea/devdojo-jao.iml" />
       <module fileurl="file://$PROJECT_DIR$/youtube/devdojo-microservices/devdojo-microservices.iml" filepath="$PROJECT_DIR$/youtube/devdojo-microservices/devdojo-microservices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youtube/devdojo-microservices/discovery/discovery.iml" filepath="$PROJECT_DIR$/youtube/devdojo-microservices/discovery/discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youtube/devdojo-microservices/gateway/gateway.iml" filepath="$PROJECT_DIR$/youtube/devdojo-microservices/gateway/gateway.iml" />
     </modules>
   </component>
 </project>
