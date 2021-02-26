@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/youtube/devdojo-microservices/auth/auth.iml" filepath="$PROJECT_DIR$/youtube/devdojo-microservices/auth/auth.iml" />
       <module fileurl="file://$PROJECT_DIR$/youtube/devdojo-microservices/core/core.iml" filepath="$PROJECT_DIR$/youtube/devdojo-microservices/core/core.iml" />
       <module fileurl="file://$PROJECT_DIR$/youtube/devdojo-microservices/course/course.iml" filepath="$PROJECT_DIR$/youtube/devdojo-microservices/course/course.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/devdojo-jao.iml" filepath="$PROJECT_DIR$/.idea/devdojo-jao.iml" />

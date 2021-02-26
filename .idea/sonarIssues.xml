@@ -18,6 +18,66 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/youtube/devdojo-microservices/auth/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/youtube/devdojo-microservices/auth/src/main/java/AuthApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/youtube/devdojo-microservices/auth/src/main/java/academy/devdojo/youtube/auth/AuthApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/youtube/devdojo-microservices/auth/src/main/java/academy/devdojo/youtube/auth/security/config/SecurityCredentialsConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/youtube/devdojo-microservices/auth/src/main/java/academy/devdojo/youtube/auth/security/filter/JwtUsernameAndPasswordAuthenticationFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/youtube/devdojo-microservices/auth/src/main/java/academy/devdojo/youtube/auth/security/user/UserDetailsServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/youtube/devdojo-microservices/auth/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/youtube/devdojo-microservices/auth/src/test/java/academy/devdojo/youtube/auth/AuthApplicationTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/youtube/devdojo-microservices/auth/src/test/java/academy/devdojo/youtube/auth/AuthApplicationTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/youtube/devdojo-microservices/core/src/main/java/academy/devdojo/youtube/core/model/ApplicationUser.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/youtube/devdojo-microservices/core/src/main/java/academy/devdojo/youtube/core/property/JwtConfiguration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/youtube/devdojo-microservices/core/src/main/java/academy/devdojo/youtube/core/repository/ApplicationUserRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/youtube/devdojo-microservices/course/pom.xml">
           <value>
             <set />
