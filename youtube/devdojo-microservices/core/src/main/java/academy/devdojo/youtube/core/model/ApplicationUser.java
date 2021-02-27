@@ -40,4 +40,6 @@ public class ApplicationUser implements AbstractEntity{
         this.password = applicationUser.getPassword();
         this.role = applicationUser.getRole();
     }
+
+    public ApplicationUser(){}
 }

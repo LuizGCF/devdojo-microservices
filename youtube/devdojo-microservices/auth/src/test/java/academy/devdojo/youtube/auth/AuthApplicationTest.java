@@ -1,23 +1,21 @@
 package academy.devdojo.youtube.auth;
 
 
-import org.junit.Test;
-import org.junit.runner.RunWith;
+
+import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
-import org.springframework.test.context.junit4.SpringRunner;
 
-@RunWith(SpringRunner.class)
 @SpringBootTest
-public class AuthApplicationTest {
+class AuthApplicationTest {
 
     @Test
-    public void contextLoads(){
+    void contextLoads(){
 
     }
 
     @Test
-    public void test(){
+    void test(){
         System.out.println(new BCryptPasswordEncoder().encode("devdojo"));
     }
 }

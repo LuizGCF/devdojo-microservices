@@ -191,8 +191,6 @@ n
 >.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_9.xml,9\6\96423a7a34dbbeccace35d216d6f10dbd5f9663a
 o
 ?.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_12.xml,9\0\9003df5a17c86c9098a716da9b41f7acdf5a1e61
-t
-D.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_2.xml,d\e\ded2433121bda4aa1286ac105ac93774429487e0
 i
 9.idea/libraries/Maven__org_jvnet_staxex_stax_ex_1_8_1.xml,7\f\7f7d6a09ee339fd0d81a36253efbef1aa4267530
 n
@@ -271,7 +269,5 @@ hyoutube/devdojo-microservices/core/src/main/java/academy/devdojo/youtube/core/m
 byoutube/devdojo-microservices/auth/src/main/java/academy/devdojo/youtube/auth/AuthApplication.java,f\2\f29d1564eb4997ffbf5ed0d7b6647cd6e9d254e6
 Z
 *youtube/devdojo-microservices/auth/pom.xml,5\1\51b43d6050f9a1462c6713aaeba91e392d6edbe6
-—
-gyoutube/devdojo-microservices/auth/src/test/java/academy/devdojo/youtube/auth/AuthApplicationTests.java,b\b\bb5bb4c3b100a07cce8ef68639307b64fe596942
 ¬
 |youtube/devdojo-microservices/auth/src/main/java/academy/devdojo/youtube/auth/security/config/SecurityCredentialsConfig.java,3\0\30a07301d0221b0ecc57bf52ed153fa76521d393

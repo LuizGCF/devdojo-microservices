@@ -8,6 +8,11 @@
             <set />
           </value>
         </entry>
+        <entry key="83c10b58-18d9-4b23-a91c-37576fed202e/consoles/Connection">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/.idea/modules.xml">
           <value>
             <set />
@@ -28,27 +33,7 @@
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/youtube/devdojo-microservices/auth/src/main/java/academy/devdojo/youtube/auth/AuthApplication.java">
-          <value>
-            <set />
-          </value>
-        </entry>
         <entry key="$PROJECT_DIR$/youtube/devdojo-microservices/auth/src/main/java/academy/devdojo/youtube/auth/security/config/SecurityCredentialsConfig.java">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/youtube/devdojo-microservices/auth/src/main/java/academy/devdojo/youtube/auth/security/filter/JwtUsernameAndPasswordAuthenticationFilter.java">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/youtube/devdojo-microservices/auth/src/main/java/academy/devdojo/youtube/auth/security/user/UserDetailsServiceImpl.java">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/youtube/devdojo-microservices/auth/src/main/resources/application.yml">
           <value>
             <set />
           </value>
